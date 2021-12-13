@@ -1,5 +1,5 @@
 {
-  "name": "your-first-web3-dapp",
+  "name": "cryptopunks-demo-dapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
